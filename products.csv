@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+101,Product_1,Category_A,10.99
+102,Product_2,Category_B,12.5
+103,Product_3,Category_A,8.75
+104,Product_4,Category_B,15.0
+105,Product_5,Category_A,9.99
+106,Product_6,Category_B,11.25
+107,Product_7,Category_A,13.75
+108,Product_8,Category_B,10.5
+109,Product_9,Category_A,14.99
+110,Product_10,Category_B,12.0
